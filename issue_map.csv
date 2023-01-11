@@ -1,0 +1,127 @@
+Old,New
+Setup Ticket,ticket
+Feature Request,request
+Research,investigation
+Clarification,support
+Production Issue,issue
+Documentation,documentation
+QE Task,task
+RFE,miscellaneous
+Blogs - New Blog User Account Request,miscellaneous
+Support,support
+New Git Repo,miscellaneous
+Market Problem,miscellaneous
+GitBox Request,request
+Support Patch,support
+Feature,feature
+Investigation,support
+Request,request
+New Project,new
+Umbrella,miscellaneous
+Risk,risk
+Idea / Feature request,request
+Sub-requirement,requirement
+Payment Support,support
+Defect,problem
+Requirement,requirement
+Story Defect,bug
+Simple Task,task
+Public Security Vulnerability,bug
+Pruning,task
+Technical task,task
+Epic,research
+Github Integration,miscellaneous
+Support Request,support
+Enhancement,feature
+Problem,problem
+Branch,development
+Blog - New Blog Request,new
+Component Upgrade,improvement
+Initiative,research
+New TLP - Common Tasks,new
+Business Requirement,requirement
+Test,test
+CTS Challenge,miscellaneous
+Tracking,miscellaneous
+Typo,problem
+Component Upgrade Subtask,task
+Design Request,design
+Success Metric,miscellaneous
+App Incident,problem
+Planned Work,planning
+Temp,miscellaneous
+Design,design
+Dependency upgrade,improvement
+TCK Challenge,miscellaneous
+Meta Issue,bug
+Incident,bug
+Suitable Name Search,miscellaneous
+Performance,improvement
+IT Help,support
+Proposal,research
+Question,support
+Issue,bug
+Tracker,miscellaneous
+Plugin Release Request,request
+Wish,request
+Quality Risk,risk
+Project,miscellaneous
+Outage,problem
+Change Request,request
+Doc Removal,improvement
+Library Upgrade,improvement
+Production/Pilot data,miscellaneous
+Doc API,miscellaneous
+Dependency,improvement
+Docs Sub-task,task
+Build Failure,problem
+Sub-task,task
+Access,support
+Atlassian Incident,error
+Backport,support
+Problem Ticket,problem
+Dev Sub-task,task
+Support Ticket,support
+DAC Feedback,support
+Blogs - Access to Existing Blog,support
+Third-party issue,problem
+Ticket,ticket
+Doc UI,miscellaneous
+SVN->GIT Mirroring,miscellaneous
+New JIRA Project,new
+Technical Debt,task
+Story,research
+New Feature,new
+Brainstorming,research
+Patch,task
+Pending Review,task
+QE Sub-task,task
+Spec Change,miscellaneous
+Feedback,support
+Roadmap item,task
+Technical Requirement,task
+Release,task
+RTC,miscellaneous
+Cosmetic,design
+(Deprecated) Contributed Patch,miscellaneous
+User Story,research
+A/B Test,test
+Workload,miscellaneous
+New TLP,new
+Sub-Task,task
+Publishing Support,support
+Spike,miscellaneous
+Test Task,task
+Comment,miscellaneous
+Dev Task,task
+Infrastructure,design
+SVN->GIT Migration,miscellaneous
+Docs Task,task
+Refactoring,improvement
+New Confluence Wiki,new
+Task,task
+Suggestion,support
+Backport Sub-Task,support
+Bug,bug
+Improvement,improvement
+Ask a question,support
