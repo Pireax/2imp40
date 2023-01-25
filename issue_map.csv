@@ -1,7 +1,8 @@
 Old,New
 (Deprecated) Contributed Patch,miscellaneous
-A/B Test,test
+A/B Test,task
 Access,support
+Analysis,research
 App Incident,problem
 Ask a question,support
 Atlassian Incident,problem
@@ -11,11 +12,12 @@ Blog - New Blog Request,new
 Blogs - Access to Existing Blog,support
 Blogs - New Blog User Account Request,miscellaneous
 Brainstorming,research
-Branch,development
+Branch,miscellaneous
 Bug,bug
 Build Failure,problem
 Business Requirement,requirement
 Change Request,request
+Choose from below ...,miscellaneous
 Clarification,support
 Comment,miscellaneous
 Component Upgrade,improvement
@@ -30,6 +32,7 @@ Design,design
 Design Request,design
 Dev Sub-task,task
 Dev Task,task
+Development Task,task
 Doc API,miscellaneous
 Doc Removal,improvement
 Doc UI,miscellaneous
@@ -41,6 +44,8 @@ Epic,research
 Feature,improvement
 Feature Request,request
 Feedback,support
+Forge Initiative,support
+Fug,miscellaneous
 GitBox Request,git
 Github Integration,git
 Idea / Feature request,request
@@ -54,6 +59,7 @@ IT Help,support
 Library Upgrade,improvement
 Market Problem,problem
 Meta Issue,bug
+New Bugzilla Project,new
 New Confluence Wiki,new
 New Feature,new
 New Git Repo,git
@@ -61,6 +67,7 @@ New JIRA Project,new
 New Project,new
 New TLP,new
 New TLP - Common Tasks,new
+OKR,miscellaneous
 Outage,problem
 Patch,task
 Payment Support,support
@@ -68,6 +75,7 @@ Pending Review,task
 Performance,improvement
 Planned Work,planning
 Plugin Release Request,request
+Pricing Change,support
 Problem,problem
 Problem Ticket,problem
 Production Issue,bug
@@ -77,12 +85,16 @@ Proposal,research
 Pruning,task
 Public Security Vulnerability,bug
 Publishing Support,support
+Purchase,support
 QE Sub-task,task
 QE Task,task
 Quality Risk,risk
 Question,support
+Questions,support
+RCA(sub),miscellaneous
 Refactoring,improvement
 Release,task
+Release tracker,miscellaneous
 Request,request
 Requirement,requirement
 Research,research
@@ -91,11 +103,13 @@ Risk,risk
 Roadmap item,task
 RTC,miscellaneous
 Setup Ticket,support
+Simple Sub-task,task
 Simple Task,task
 Spec Change,miscellaneous
 Spike,miscellaneous
 Story,research
 Story Defect,bug
+Sub-bug,bug
 Sub-requirement,requirement
 Sub-task,task
 Sub-Task,task
@@ -114,7 +128,7 @@ Technical Debt,task
 Technical Requirement,requirement
 Technical task,task
 Temp,miscellaneous
-Test,test
+Test,task
 Test Task,task
 Third-party issue,problem
 Ticket,support
